@@ -101,8 +101,6 @@ App_Data/
 # ASP.NET Scaffolding
 Scaffolded/
 
-# Entity Framework Migrations
-Migrations/
 
 # SDK
 sdk/
