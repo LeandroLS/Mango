@@ -31,3 +31,7 @@ Thumbs.db
 # Arquivos de sistema
 *.swp
 *.swo
+
+/obj
+
+/bin
