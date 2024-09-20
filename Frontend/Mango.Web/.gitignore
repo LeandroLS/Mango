@@ -1,0 +1,33 @@
+# Arquivos de log e temporários
+*.log
+.DS_Store
+Thumbs.db
+
+# Diretórios e arquivos gerados pelo Hugo
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Arquivos de configuração temporários
+/config.toml.bak
+/config.yaml.bak
+
+# Arquivos e diretórios de cache
+/cache/
+/.tmp/
+
+# Diretórios ou arquivos de dependências de temas e submódulos
+/themes/*/node_modules/
+/node_modules/
+/package-lock.json
+/yarn.lock
+
+# Dependências de IDEs e editores
+.idea/
+/.vscode/
+/*.sublime-project
+/*.sublime-workspace
+
+# Arquivos de sistema
+*.swp
+*.swo
