@@ -1,6 +1,6 @@
 using System;
 
-namespace Mango.Services.CouponAPI.Models.DTO;
+namespace Mango.Web.Models;
 
 public class CouponDto
 {
