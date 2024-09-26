@@ -96,7 +96,7 @@ TFSBuild.proj.user
 
 # WebAPI
 App_Data/
-*.json
+
 
 # ASP.NET Scaffolding
 Scaffolded/
